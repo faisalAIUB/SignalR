@@ -1,0 +1,38 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body >
+    <div >
+        <div id="chatBox" class="chatBox" style="display:none ">
+            <b>From</b>
+            My ConnectinId: <input type="text" id="myConnectionId" readonly /><br />
+            My  ConnectionName<input type="text" id="myConnectionName" /><br />
+            <hr />
+            <b>To</b>
+            Partner ConnectinId: <input type="text" id="partnerConnectionId" readonly /><br />
+            Partner ConnectionName<input type="text" id="partnerConnectionName" /><br />
+
+            <div id="messages" class="messages">
+
+            </div>
+            <div class="inmessagdv">
+                <textarea id="inmessage" class="inmessage"></textarea>
+            </div>
+        </div>
+    </div>
+    <div>
+        <div id="Connections" ></div>
+    </div>
+
+    <script src="~/Scripts/jquery-1.6.4.js"></script>
+    <script src="~/Scripts/jquery.signalR-2.4.1.js"></script>
+    <script src="~/signalr/hubs"></script>    
+    <script src="~/Scripts/sampleChat.js"></script>
+
+</body>
+</html>

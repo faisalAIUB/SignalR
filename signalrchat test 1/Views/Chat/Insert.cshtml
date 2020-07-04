@@ -1,0 +1,34 @@
+﻿
+@{
+    Layout = null;
+    //var url = Url.HttpRouteUrl("abc", new { controller = "Chat", action = "Home" });
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Insert</title>
+</head>
+<body>
+    <div>
+        <button id="button">test</button>
+    </div>
+    <script src="~/Scripts/jquery-1.6.4.js"></script>
+</body>
+</html>
+<script>
+    $("#button").click(function () {
+        var url ="http://localhost:50323/Chat/Home";
+        $.ajax({
+            method: "GET",
+            url: url,
+            
+        })
+            .done(function (msg) {
+                alert(@ViewBag.a );
+
+            });
+    })
+</script>

@@ -1,0 +1,266 @@
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\signalrchat test 1.dll.config
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\signalrchat test 1.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\signalrchat test 1.pdb
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\csc.exe
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\csc.exe.config
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\csc.rsp
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\csi.exe
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\csi.exe.config
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\csi.rsp
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.Managed.Core.targets
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\System.AppContext.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Console.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\System.IO.Compression.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\System.IO.FileSystem.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\System.IO.Pipes.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Security.AccessControl.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Security.Claims.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\System.ValueTuple.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Xml.XPath.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\vbc.exe
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\vbc.exe.config
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\vbc.rsp
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\VBCSCompiler.exe
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\Microsoft.AspNet.SignalR.Core.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\Microsoft.Owin.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\Microsoft.Owin.Security.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\Newtonsoft.Json.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\Owin.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\System.Web.Helpers.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\System.Web.Mvc.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\System.Web.Razor.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\System.Web.Webpages.Deployment.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\System.Web.Webpages.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\System.Web.Webpages.Razor.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\Microsoft.AspNet.SignalR.Core.pdb
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\Microsoft.AspNet.SignalR.Core.xml
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\Microsoft.Owin.xml
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\Microsoft.Owin.Security.xml
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\Newtonsoft.Json.xml
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\System.Web.Razor.xml
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\System.Web.Webpages.xml
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\System.Web.Webpages.Deployment.xml
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\System.Web.Webpages.Razor.xml
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\System.Web.Helpers.xml
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\System.Web.Mvc.xml
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\obj\Debug\signalrchat test 1.csprojAssemblyReference.cache
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\obj\Debug\signalrchat test 1.csproj.CoreCompileInputs.cache
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\obj\Debug\signalrchat test 1.csproj.CopyComplete
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\obj\Debug\signalrchat test 1.dll
+c:\users\mbp solutions\source\repos\signalrchat test 1\signalrchat test 1\obj\Debug\signalrchat test 1.pdb
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\signalrchat test 1.dll.config
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\signalrchat test 1.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\signalrchat test 1.pdb
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\csc.exe
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\csc.exe.config
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\csc.rsp
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\csi.exe
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\csi.exe.config
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\csi.rsp
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\System.AppContext.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Collections.Immutable.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Console.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\System.IO.Compression.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\System.IO.FileSystem.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\System.IO.Pipes.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Security.AccessControl.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Security.Claims.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\System.ValueTuple.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Xml.XPath.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\vbc.exe
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\vbc.exe.config
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\vbc.rsp
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\VBCSCompiler.exe
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\roslyn\VBCSCompiler.exe.config
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\Microsoft.Owin.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\Microsoft.Owin.Security.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\Microsoft.Web.Infrastructure.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\Newtonsoft.Json.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\Owin.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\System.Web.Helpers.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\System.Web.Mvc.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\System.Web.Razor.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\System.Web.Webpages.Deployment.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\System.Web.Webpages.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\System.Web.Webpages.Razor.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\Microsoft.Owin.xml
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\Microsoft.Owin.Security.xml
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\Newtonsoft.Json.xml
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\System.Web.Razor.xml
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\System.Web.Webpages.xml
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\System.Web.Webpages.Deployment.xml
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\System.Web.Webpages.Razor.xml
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\System.Web.Helpers.xml
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\System.Web.Mvc.xml
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Personal\signalrchat test 1\signalrchat test 1\obj\Debug\signalrchat test 1.csprojAssemblyReference.cache
+C:\Personal\signalrchat test 1\signalrchat test 1\obj\Debug\signalrchat test 1.csproj.CoreCompileInputs.cache
+C:\Personal\signalrchat test 1\signalrchat test 1\obj\Debug\signalrchat test 1.csproj.CopyComplete
+C:\Personal\signalrchat test 1\signalrchat test 1\obj\Debug\signalrchat test 1.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\obj\Debug\signalrchat test 1.pdb
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\FireSharp.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\FireSharp.Serialization.JsonNet.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\RestSharp.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\RestSharp.xml
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\Quartz.dll
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\Quartz.pdb
+C:\Personal\signalrchat test 1\signalrchat test 1\bin\Quartz.xml
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\signalrchat test 1.dll.config
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\signalrchat test 1.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\signalrchat test 1.pdb
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\csc.exe
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\csc.exe.config
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\csc.rsp
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\csi.exe
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\csi.exe.config
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\csi.rsp
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\System.AppContext.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Collections.Immutable.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Console.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\System.IO.Compression.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\System.IO.FileSystem.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\System.IO.Pipes.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Security.AccessControl.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Security.Claims.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\System.ValueTuple.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Xml.XPath.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\vbc.exe
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\vbc.exe.config
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\vbc.rsp
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\VBCSCompiler.exe
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\roslyn\VBCSCompiler.exe.config
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\FireSharp.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\FireSharp.Serialization.JsonNet.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\Microsoft.Owin.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\Microsoft.Owin.Security.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\Microsoft.Web.Infrastructure.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\Newtonsoft.Json.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\Owin.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\Quartz.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\RestSharp.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\System.Web.Helpers.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\System.Web.Mvc.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\System.Web.Razor.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\System.Web.Webpages.Deployment.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\System.Web.Webpages.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\System.Web.Webpages.Razor.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\Microsoft.Owin.xml
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\Microsoft.Owin.Security.xml
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\Newtonsoft.Json.xml
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\Quartz.pdb
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\Quartz.xml
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\RestSharp.xml
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\System.Web.Razor.xml
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\System.Web.Webpages.xml
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\System.Web.Webpages.Deployment.xml
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\System.Web.Webpages.Razor.xml
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\System.Web.Helpers.xml
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\System.Web.Mvc.xml
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\obj\Debug\signalrchat test 1.csprojAssemblyReference.cache
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\obj\Debug\signalrchat test 1.csproj.CoreCompileInputs.cache
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\obj\Debug\signalrchat test 1.csproj.CopyComplete
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\obj\Debug\signalrchat test 1.dll
+C:\Personal\SignalIR Chat Git\signalrchat test 1\signalrchat test 1\obj\Debug\signalrchat test 1.pdb
